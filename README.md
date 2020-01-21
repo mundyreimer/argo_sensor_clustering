@@ -9,4 +9,6 @@ Collaborators include: [Isabel Houghton](https://www.linkedin.com/in/isabel-houg
 
 ---
 
+Argo data set [found here](http://www.argo.ucsd.edu/Argo_data_and.html).
+
 Project slide-deck can be [found here](https://docs.google.com/presentation/d/1yQh4USQ-taN2zQ36ukN4ExVCNp2EwumFjSiDIEPRv0s/edit?usp=sharing).
